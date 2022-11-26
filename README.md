@@ -1,0 +1,3 @@
+- Hi, I’m @wryern.
+- I don't code much but I will learn over time
+- I mostly have this account just for repositories but I access usually actions for downloads,
