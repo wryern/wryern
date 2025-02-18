@@ -1,3 +1,3 @@
-- Hi, I’m @wryern.
+- Hi, I’m wryern, they/he
 - I don't code much but I will learn over time
 - I mostly have this account just for repositories but I access usually actions for downloads,
